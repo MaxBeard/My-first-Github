@@ -1,7 +1,7 @@
 public class HelloWorldMB {
 
     public static void main(String[] args) {
-        //LMAO
+        System.out.println("Hi");
         }
                
     }
